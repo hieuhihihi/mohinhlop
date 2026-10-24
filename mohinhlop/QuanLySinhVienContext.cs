@@ -8,7 +8,7 @@ namespace QuanLySinhVien
         public QuanLySinhVienContext()
             : base("name=QuanLySinhVienConnection")
         {
-            // Tự động tạo CSDL nếu chưa tồn tại
+            
             Database.SetInitializer(new CreateDatabaseIfNotExists<QuanLySinhVienContext>());
         }
 
