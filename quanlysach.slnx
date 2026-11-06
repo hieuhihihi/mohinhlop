@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuanLySach.BUS/QuanLySach.BUS.csproj" Id="cb628367-67bd-4dd4-9a82-b6f570226c4b" />
+  <Project Path="QuanLySach.DAL/QuanLySach.DAL.csproj" Id="bf9a8039-4d57-4243-af4b-2ffb4875e64c" />
+  <Project Path="QuanLySach.Entity/QuanLySach.Entity.csproj" Id="cdd0479d-a8a6-46b7-87ef-19944ad3fef9" />
+  <Project Path="quanlysach/quanlysach.csproj" />
+</Solution>
